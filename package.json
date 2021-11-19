@@ -1,5 +1,5 @@
 {
-  "name": "adonis-swagger",
+  "name": "productcrafters-adonis-swagger",
   "version": "1.3.0",
   "description": "Swagger Provider for Adonis",
   "main": "index.js",
