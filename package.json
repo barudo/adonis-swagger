@@ -1,6 +1,6 @@
 {
-  "name": "productcrafters-adonis-swagger",
-  "version": "1.3.0",
+  "name": "barudo-adonis-swagger",
+  "version": "1.0.0",
   "description": "Swagger Provider for Adonis",
   "main": "index.js",
   "scripts": {
@@ -15,14 +15,15 @@
     "swagger",
     "documentation"
   ],
-  "author": "Ahmad Arif <ahmad.arif019@gmail.com>",
+  "author": "Justin Villocido<barudo@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "openapi-types": "^10.0.0",
     "swagger-jsdoc": "^6.1.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ahmadarif/adonis-swagger"
+    "url": "https://github.com/barudo/adonis-swagger"
   },
   "devDependencies": {
     "@adonisjs/ace": "^5.0.0",
